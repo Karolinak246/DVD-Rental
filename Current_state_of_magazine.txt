@@ -1,0 +1,179 @@
+Pocahontas
+Film animowany
+1995
+78 min
+Disney
+Irene Bedard, Mel Gibson, Christian Bale, Linda Hunt
+0000000003
+3
+
+Fast & Furious
+Film akcji
+2001
+106 min
+Universal Studios
+Vin Deasel, Paul Walker
+0000000004
+5
+
+Resident evil
+Horror
+2002
+100 min
+Paul W.S. Anderson
+Milla Jovovich, Michelle Rodriguez, Eric Mabius
+00000000005
+3
+
+Constantine
+Horror
+2005
+121 min
+Francis Lawrence
+Keanu Reeves, Rachel Weisz, Tilda Swinton
+0000000006
+4
+
+RED
+Film akcji
+2010
+154 min
+Robert Schwentke
+Bruce Willis, Morgan Freeman, John Malkovich, Karl Urban, Mary-Louise Parker, Helen Mirren
+0000000007
+3
+
+Matrix
+Science-fiction
+1999
+150 min
+Lana Wachowski, Lilly Wachowski
+Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss
+0000000008
+4
+
+Obcy: 8. pasaĹĽer "Nostromo"
+Science-fiction
+1979
+117 min
+Ridley Scott
+Sigourney Weaver, Tom Skeritt, Veronica Cartwright
+0000000009
+2
+
+Kill Bill
+KryminaĹ‚
+2003
+112 min
+Quentin Tarantino
+Uma Thurman, David Carradine, Daryl Hannah
+0000000010
+5
+
+Pulp Fiction
+KryminaĹ‚
+1994
+178 min
+Quentin Tarantino
+Quentin Tarantino, John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis
+0000000011
+3
+
+Gwiezdne wojny cz. 1
+Fantasy
+1999
+136 min
+George Lucas
+Jake Lloyd, Natalie Portman, Liam Neeson
+0000000012
+4
+
+Django
+Dramat
+2012
+165 min
+Quentin Tarantino
+Quentin Tarantino, Jamie Foxx, Leonardo DiCaprio
+0000000013
+3
+
+Desperado
+Dreszczowiec
+1995
+107 min
+Robert Rodriguez
+Antonio Banderas, Dalma Hayek, Quentin Tarantino
+0000000014
+4
+
+Harry Potter i Komnata Tajemnic
+Fantasy
+2002
+174 min
+Chris Columbus
+Daniel Redcliffe, Emma Watson, Rupert Grint
+0000000015
+5
+
+Wadca Piercieni: Druľyna Piercienia
+Fantasy
+2001
+228 min
+Peter Jackson
+Elijah Wood, Ian McKellen, Orlando Bloom, Viggo Mortensen, Sean Astin, Sean Bean, Billy Boyd, Dominic Monaghan
+0000000016
+4
+
+Anabelle
+Horror
+2014
+99 min
+John R. Leonetti
+Annabelle Wallis, Ward Horton, Tony Amendola
+0000000001
+2
+
+Silent Hill
+Dreszczowiec
+2006
+132 min
+Christophe Gans
+Radha Mitchel, Sean Bean, Laurie Holden
+0000000002
+3
+
+Incepcja
+Science-fiction
+2010
+148 min
+Christopher Nolan
+Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt
+0000000017
+2
+
+To
+Horror
+2017
+135 min
+Andres Muschietti
+Finn Wolrhard, Bill Skarsgard, Jaeden Lieberher
+'
+2
+
+Katastrofa w kartonach
+Dramat
+2010
+15 min
+TVP2
+Hanka, Kartony
+
+1
+
+abc
+dramat
+123
+123 min
+fsjwf
+sffy, xgwuw
+'
+4
